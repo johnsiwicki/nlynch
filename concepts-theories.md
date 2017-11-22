@@ -20,7 +20,7 @@
 "Choice paralysis"
 
 - Real world example: The old menu board at Seymour Sandwich. Dozens of pieces of paper hung above the counter with daily specials, sandwich options, salads, etc.
-- Web example: 
+- Web example: Amazon.com
 
 ### Conclusions
 - Examine the number of options displayed on the site and determine how this will affect the users’ overall approach to decision making.
