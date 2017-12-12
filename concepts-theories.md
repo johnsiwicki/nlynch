@@ -1,3 +1,19 @@
+# Occam's Razor
+
+"A principle stating that among competing hypotheses, the one with the fewest assumptions should be selected. *To put it in the design context, Occam’s Razor states that the simplest solution is usually best.*"
+
+Also this:
+
+"Simpler theories are preferable over more complex ones because they are more testable."
+
+Works in conjunction with Hick's Law
+
+- *Real world example:* I got a stomache ache from drinking sour milk, not from being abducted by aliens and being force fed intergalactic milkshakes that were past the expiration date.
+- *Web example:* Header with 3 logos, phone #, contact button, territory, emergency service icon vs. 1 Logo, phone #, contact us.
+
+###### *Source: https://www.webdesignerdepot.com/2010/07/occams-razor-a-great-principle-for-designers/*
+
+
 # 80/20 Rule
 
 "20% of the functionality and features in any one environment will be responsible for 80% of the results, or actions taken within that environment."
