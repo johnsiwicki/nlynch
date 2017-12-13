@@ -1,15 +1,40 @@
+# User Delight
+
+"UI embellishments can only produce surface delight; deep delight can only be achieved in functional, reliable, and usable interfaces."
+
+- Hierarchy of User Needs
+    - Superior needs (such as pleasure and delight — at the very top of the pyramid) can only be achieved after more fundamental needs (such as functionality, reliability and usability) are fulfilled.
+- Surface & Deep Delight
+    - Surface Delight: Isolated interface features such as: animations, clever microcopy, hi-res imagery
+    - Deep Delight: The interface works as expected (or better), and meets user needs at the right time and place.
+    
+- *Web examples:* Yelp.com & Unroll.me See source link
+
+### Conclusions
+- Focus on the overall experience first - Functionality, reliability, usability
+- UX flare should be secondary and enchance or compliment the experience
+- No one ever said, “I’m thrilled this beautiful product doesn’t work as well as I expected.”
+- If, by pursuing delight, the end goal of a functional, reliable, and usable product gets lost, rethink the solution.
+
+###### *Source: https://www.nngroup.com/articles/theory-user-delight/*
+
 # Occam's Razor
 
 "A principle stating that among competing hypotheses, the one with the fewest assumptions should be selected. *To put it in the design context, Occam’s Razor states that the simplest solution is usually best.*"
 
 Also this:
 
-"Simpler theories are preferable over more complex ones because they are more testable."
+"Simpler concepts are preferable over more complex ones because they are more testable."
 
 Works in conjunction with Hick's Law
 
-- *Real world example:* I got a stomache ache from drinking sour milk, not from being abducted by aliens and being force fed intergalactic milkshakes that were past the expiration date.
-- *Web example:* Header with 3 logos, phone #, contact button, territory, emergency service icon vs. 1 Logo, phone #, contact us.
+- *Real world example:* Who built the pyramids? Humans or Aliens?
+- *Web example:* Is the company open for business? Woods Basement Systems https://www.woodsbasementsystems.com/ vs. simple contact number with option to call the customer back if office is closed.
+
+### Conclusions
+- Don't overcomplicate or clutter with words, logos, images. 
+- Keep it simple & straightforward.
+
 
 ###### *Source: https://www.webdesignerdepot.com/2010/07/occams-razor-a-great-principle-for-designers/*
 
