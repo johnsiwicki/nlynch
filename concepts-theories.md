@@ -7,7 +7,8 @@
 - Surface & Deep Delight
     - Surface Delight: Isolated interface features such as: animations, clever microcopy, hi-res imagery
     - Deep Delight: The interface works as expected (or better), and meets user needs at the right time and place.
-    
+
+- *Real world Example:* Cake and frosting
 - *Web examples:* Yelp.com & Unroll.me See source link
 
 ### Conclusions
